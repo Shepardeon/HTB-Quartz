@@ -2,3 +2,29 @@
 
 // put your custom CSS here!
 @use "themes";
+
+progress {
+  /* Reset the default appearance */
+  -webkit-appearance: none;
+    -moz-appearance: none;
+          appearance: none;
+
+  border: 1px solid #5a606b;
+  border-radius: 5px;
+
+  height: 8px;
+  margin-bottom: 2px !important;
+
+  &::-webkit-progress-bar {
+    background-color: transparent;
+  }
+
+  &::-webkit-progress-value {
+    background-color: rgb(160, 240, 0);
+    border-radius: 5px;
+  }
+
+  &::-moz-progress-bar {
+    background-color: transparent;
+  }
+}

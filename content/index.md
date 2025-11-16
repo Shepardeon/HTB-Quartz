@@ -9,18 +9,18 @@ Salut, moi c'est Shepardeon, ou Shep. Je me passionne au sujet de la cybersécur
 
 ## Progression
 
--  [[Boxes/Étape 1/index|Étape 1]] : 05/10 machines - Progression 050% - <progress max=10 value=5> </progress>
--  Étape 2 : 00/10 machines - Progression 000% - <progress max=10 value=0> </progress>
--  Étape 3 : 00/07 machines - Progression 000% - <progress max=7 value=0> </progress>
--  Étape 4 : 00/06 machines - Progression 000% - <progress max=6 value=0> </progress>
--  Étape 5 : 00/07 machines - Progression 000% - <progress max=7 value=0> </progress>
--  Étape 6 : 00/08 machines - Progression 000% - <progress max=8 value=0> </progress>
--  Étape 7 : 00/09 machines - Progression 000% - <progress max=9 value=0> </progress>
--  Étape 8 : 00/07 machines - Progression 000% - <progress max=7 value=0> </progress>
--  Étape 9 : 00/06 machines - Progression 000% - <progress max=6 value=0> </progress>
--  Étape A : 00/05 -pro labs - Progression 000% - <progress max=5 value=0> </progress>
+-  [[Étape 1/index|Étape 1]] : 5/10 machines - Progression 050% - <progress max=10 value=5> </progress>
+-  Étape 2 : 0/10 machines - Progression 000% - <progress max=10 value=0> </progress>
+-  Étape 3 : 0/7 machines - Progression 000% - <progress max=7 value=0> </progress>
+-  Étape 4 : 0/6 machines - Progression 000% - <progress max=6 value=0> </progress>
+-  Étape 5 : 0/7 machines - Progression 000% - <progress max=7 value=0> </progress>
+-  Étape 6 : 0/8 machines - Progression 000% - <progress max=8 value=0> </progress>
+-  Étape 7 : 0/9 machines - Progression 000% - <progress max=9 value=0> </progress>
+-  Étape 8 : 0/7 machines - Progression 000% - <progress max=7 value=0> </progress>
+-  Étape 9 : 0/6 machines - Progression 000% - <progress max=6 value=0> </progress>
+-  Étape 10 : 0/5 -pro labs - Progression 000% - <progress max=5 value=0> </progress>
 
-**Progression globale** : 05/75 machines - Progression - <progress max=75 value=5> </progress> 🎓
+**Progression globale** : 5/75 machines - Progression - <progress max=75 value=5> </progress> 🎓
 ## Objectifs
 
 Apprentissage du Pentest / Hacking Éthique à l'aide d'une PwnList de machines sur HTB :

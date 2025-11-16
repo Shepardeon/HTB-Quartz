@@ -144,7 +144,7 @@ ftp> ls
 
 ---
 
-### 📁 SMB / FTP / Autres services
+### 📁 SMB
 **Infos :**  Login anonyme autorisé - Version Samba smbd 3.0.20-Debian
 **Enumerations :**
 
