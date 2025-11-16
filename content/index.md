@@ -9,7 +9,7 @@ Salut, moi c'est Shepardeon, ou Shep. Je me passionne au sujet de la cybersécur
 
 ## Progression
 
--  [[Étape 1/index|Étape 1]] : 5/10 machines - Progression 050% - <progress max=10 value=5> </progress>
+-  [[Étape 1/index|Étape 1]] : 6/10 machines - Progression 050% - <progress max=10 value=6> </progress>
 -  Étape 2 : 0/10 machines - Progression 000% - <progress max=10 value=0> </progress>
 -  Étape 3 : 0/7 machines - Progression 000% - <progress max=7 value=0> </progress>
 -  Étape 4 : 0/6 machines - Progression 000% - <progress max=6 value=0> </progress>
@@ -20,7 +20,7 @@ Salut, moi c'est Shepardeon, ou Shep. Je me passionne au sujet de la cybersécur
 -  Étape 9 : 0/6 machines - Progression 000% - <progress max=6 value=0> </progress>
 -  Étape 10 : 0/5 -pro labs - Progression 000% - <progress max=5 value=0> </progress>
 
-**Progression globale** : 5/75 machines - Progression - <progress max=75 value=5> </progress> 🎓
+**Progression globale** : 6/75 machines - Progression - <progress max=75 value=6> </progress> 🎓
 ## Objectifs
 
 Apprentissage du Pentest / Hacking Éthique à l'aide d'une PwnList de machines sur HTB :

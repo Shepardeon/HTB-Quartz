@@ -20,3 +20,4 @@ Cette section contient mes notes de pentest sur les boxes suivantes :
 -  [[1-3 Jerry]]
 -  [[1-4 Legacy]]
 - [[1-5 Bashed]]
+- [[1-6 Optimum]]
