@@ -10,13 +10,13 @@ os: OpenBSD
 difficulty: Easy
 date: 2025-11-23
 status: terminé
-draft: "true"
+draft: "false"
 ---
 ---
 # Sense
 
 > [!summary] Résumé rapide  
-> (Compléter après la machine : vecteur d’entrée + privesc)
+> Sense est une machine Facile de HackTheBox. Le serveur présente un service pfSense qui est vulnérable, car pas à jour, à ne exécution de commande. Cette exécution permet à un attaquant de prendre le contrôle de la machine en tant que root.
 
 ---
 
